@@ -1,4 +1,4 @@
 public void test(){
 
-  syso
+  sys
 }
